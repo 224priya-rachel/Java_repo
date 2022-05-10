@@ -1,0 +1,8 @@
+public class dmo.java {
+
+  UserInput input = new UserInput();
+
+  public void foo() {
+      input.name();
+  }
+}
